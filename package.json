@@ -13,5 +13,6 @@
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "umi-request": "^1.4.0"
-  }
+  },
+  "repository": "git@github.com:IAmChenwenchun/SelectWithRequest.git"
 }
