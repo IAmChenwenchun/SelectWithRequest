@@ -1,5 +1,5 @@
 {
-  "name": "select-with-umi-request-cwc",
+  "name": "select-with-request",
   "version": "1.0.0",
   "description": "基于antd的select组件二次封装组件",
   "main": "index.js",
