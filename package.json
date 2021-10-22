@@ -1,0 +1,17 @@
+{
+  "name": "select-with-request",
+  "version": "1.0.0",
+  "description": "基于antd的select组件二次封装组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.16.13",
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "umi-request": "^1.4.0"
+  }
+}

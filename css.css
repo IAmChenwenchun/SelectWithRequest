@@ -1,0 +1,21 @@
+.cselect-wrap {
+    position: relative;
+    display: inline-block;
+}
+
+.cselect-close {
+    display: none;
+    position: absolute;
+    top: 5px;
+    height: 30px;
+    line-height: 30px;
+    right: 8px;
+    z-index: 10;
+    color: #bfbfbf;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.cselect-wrap:hover .cselect-close {
+    display: block;
+}
